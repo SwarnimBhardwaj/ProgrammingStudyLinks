@@ -1,0 +1,7 @@
+1.http://javarevisited.blogspot.in/2011/09/javalangoutofmemoryerror-permgen-space.html.
+
+2.http://java.dzone.com/news/how-fix-memory-leaks-java
+
+3.http://www.coderanch.com/t/537313/Performance/java/memory-error-java-heap-space
+
+4.http://www.javaperformancetuning.com/tips/rawtips.shtml
